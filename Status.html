@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<h1>Status</h1>
+<h3>
+    <a id="Status" class="anchor" href="#purpose" aria-hidden="true"><span class="octicon octicon-link"></span></a>Status</h3>
+
 
 <ul>
-    {% for post in site.posts %}
+    {% for Status in site.posts %}
     <li>
-        <a href="">{{default.title}}</a>
-        <p>{{default.meta}}</p>
+        <a href="">{{Status.title}}</a>
+        <p>{{Status.meta}}</p>
         <p>{{content}}</p>
     </li>
     {% endfor %}
