@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3be622bb-bffd-4f46-9ec5-ccd12df1b3f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Status.html" afterPath="$PROJECT_DIR$/Status.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/Status.html" afterPath="$PROJECT_DIR$/_site/Status.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <ignored path="aq.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +48,8 @@
       <file leaf-file-name="Status.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Status.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30232558">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.23255815">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -417,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Status.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30232558">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.23255815">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
