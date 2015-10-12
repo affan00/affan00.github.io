@@ -2,16 +2,13 @@
 layout: default
 ---
 
- <section class="main-content">
-      <h3>
-<a id="Status of Learning" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Status of Learning</h3>
+<h1>Status</h1>
 
-<p>Here i post the status of learning on daily or weekly basis.</p>
-
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/affan00/aq.github.io">Affan Qureshi</a> is maintained by <a href="https://github.com/affan00">affan00</a>.</span>
-
-
-      </footer>
-
-    </section>
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <a href="">{{Status.title}}</a>
+        <p>{{Status.meta}}</p>
+    </li>
+    {% end for %}
+</ul>
