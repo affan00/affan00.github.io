@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3be622bb-bffd-4f46-9ec5-ccd12df1b3f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-12-previous-learning.md" afterPath="$PROJECT_DIR$/_posts/2015-10-12-previous-learning.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Status.html" afterPath="$PROJECT_DIR$/Status.html" />
     </list>
     <ignored path="aq.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +36,7 @@
       <file leaf-file-name="2015-10-12-previous-learning.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-10-12-previous-learning.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09389672">
+            <state vertical-scroll-proportion="0.089686096">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
@@ -107,8 +106,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_posts/2015-10-12-previous-learning.md" />
         <option value="$PROJECT_DIR$/Status.html" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-12-previous-learning.md" />
       </list>
     </option>
   </component>
@@ -120,10 +119,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="768" />
-    <option name="y" value="26" />
-    <option name="width" value="704" />
-    <option name="height" value="742" />
+    <option name="x" value="49" />
+    <option name="y" value="-4" />
+    <option name="width" value="1317" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -337,10 +336,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="768" y="26" width="704" height="742" extended-state="0" />
+    <frame x="49" y="-4" width="1317" height="772" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46732953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -418,7 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-12-previous-learning.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09389672">
+        <state vertical-scroll-proportion="0.089686096">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>

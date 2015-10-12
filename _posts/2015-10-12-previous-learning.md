@@ -1,5 +1,5 @@
 ---
-layout: Status
+layout: default
 title: Previous days learning status
 meta: Future may be able to get more familiar with jekyll and ror.
 category: Status
