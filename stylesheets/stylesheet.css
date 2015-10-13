@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #567482;
+  color: rgba(10, 68, 10, 0.64);
   text-decoration: none; }
   a:hover {
     text-decoration: none; }
@@ -73,8 +73,7 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
-  color: white;}
+  margin-bottom: 0.1rem;}
 
 @media screen and (min-width: 64em) {
   .project-name {
