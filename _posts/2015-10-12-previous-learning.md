@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Previous days learning status
+title: Previous days learning status 12-10-2015
 meta: Future may be able to get more familiar with jekyll and ror.
 category: Status
 ---
