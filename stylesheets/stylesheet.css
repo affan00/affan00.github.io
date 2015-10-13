@@ -10,10 +10,10 @@ body {
   color: #606c71; }
 
 a {
-  color: currentColor;
+  color: #567482;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: none; }
 
 .btn {
   display: inline-block;
@@ -29,10 +29,10 @@ a {
     margin-left: 1rem; }
 
 .btn:hover {
-  color: currentColor;
+  color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
-  border: none; }
+  border-color: rgba(255, 255, 255, 0.3); }
 
 @media screen and (min-width: 64em) {
   .btn {
