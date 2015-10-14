@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: rgba(10, 68, 10, 0.64);
+  color: darkslategray;
   text-decoration: none; }
   a:hover {
     text-decoration: none; }
