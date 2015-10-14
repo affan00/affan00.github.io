@@ -243,3 +243,56 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.home-template .page-description {
+  -webkit-animation: fade-in-down 0.9s;
+  animation: fade-in-down 0.9s;
+  -webkit-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+}
+.page-description.icons {
+  margin-top: 20px;
+}
+@media only screen and (max-width: 900px) {
+    .page-description {
+        font-size: 1.8rem;
+        line-height: 1.5em;
+    }
+}
+  .page-description {
+    margin: 0;
+    font-size: 2rem;
+    line-height: 1.5em;
+    font-weight: 400;
+    font-family: "Merriweather", serif;
+    letter-spacing: 0.01rem;
+    color: rgba(255,255,255,0.8);
+  }
+.fa-2x {
+    font-size: 2em;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icons a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    margin-right: 10px;
+}
+.fa-github:before {
+    content: "\f09b";
+}
+.fa-twitter:before {
+    content: "\f099";
+}
+.fa-linkedin:before {
+    content: "\f0e1";
+}
+.fa-envelope:before {
+    content: "\f0e0";
+}
